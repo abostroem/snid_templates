@@ -15,3 +15,4 @@ Instructions:
 * add the files sn13ej.lnw and sn12A.lnw (in the SNID_templates directory) to your snid/templates directory.
 * add these file names to you template list (snid/templates/templist)
 
+

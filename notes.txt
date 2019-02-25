@@ -1,0 +1,15 @@
+1. All work in wiserep directory
+2. Copy and paste search results table from wise rep
+3. Run wiserep.py
+4. Edit and run combine_spectra.ipynb
+5. Edit and run scombine_spectra.ipynb
+6. Edit and run make_snid_list_file
+7. Copy all files in SNID_template directory to /dark/bostroem/research/snid_templates
+8. su hal
+9. run: logwave snid_list_<snname>
+10. view results with plotlnv <sn????>
+11. wmin and wmax  in snid_list to trim edges of spectrum
+12. repeat 6-10 until satified
+13. copy lnw files to /dark/usr/snid-5.0/templates
+14. add lnw files to templist
+
